@@ -1,3 +1,24 @@
+# LIST OF COMPONENTS TO BUILD:
+
+GLOBAL COMPONENTS: Modals, LoadingSPinners Buttons, etc etc.
+FORM COMPONENTS:
+
+- <SignInForm/>
+- <SignUpForm/>
+- <Input>
+- <ButtonForm/>
+- <Dropzone/>
+  HEADER COMPONENTS:
+- <ProfileWidget/>
+- <Header/>
+  TWEET COMPONENTS:
+- <Comment/>
+- <WriteComment/>
+- <Tweet/>
+- <WriteTweet/>
+
+===================================
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

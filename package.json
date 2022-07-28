@@ -11,6 +11,8 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "@styled-icons/bootstrap": "^10.34.0",
     "axios": "^0.27.2",
     "framer-motion": "^6.5.1",
     "next": "12.2.3",
@@ -42,6 +44,7 @@
     "@types/node": "18.6.1",
     "@types/react": "18.0.15",
     "@types/react-dom": "18.0.6",
+    "@types/styled-components": "^5.1.25",
     "babel-loader": "^8.2.5",
     "eslint": "8.20.0",
     "eslint-config-next": "12.2.3",
